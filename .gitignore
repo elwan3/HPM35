@@ -1,6 +1,8 @@
 model_ws/template
 *.cbc
 *.cbb
+*.cre
+*.lst
 *.ftl
 *.out
 *.bud
@@ -25,7 +27,6 @@ __pycache__/
 junk/
 HPM_M3/
 hpm_zero_pump/
-hpm_ext/
 **/*junk*
 **/*.pdf
 **/*.png
